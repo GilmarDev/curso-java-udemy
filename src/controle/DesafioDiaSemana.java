@@ -16,22 +16,22 @@ public class DesafioDiaSemana {
     if("domingo".equalsIgnoreCase(diaSemana)) {
        System.out.println(1);
       
-    }else if("segunda-feira".equalsIgnoreCase(diaSemana) || "segunda-feira".equalsIgnoreCase(diaSemana)) {
+    }else if("segunda-feira".equalsIgnoreCase(diaSemana)) {
        System.out.println(2);
 
-     }else if("terça-feira".equalsIgnoreCase(diaSemana) || "terça-feira".equalsIgnoreCase(diaSemana)) {
+     }else if("terça-feira".equalsIgnoreCase(diaSemana) || "terca-feira".equalsIgnoreCase(diaSemana)) {
         System.out.println(3);
           
-      }else if("quarta-feira".equalsIgnoreCase(diaSemana) || "quarta-feira".equalsIgnoreCase(diaSemana)) {
+      }else if("quarta-feira".equalsIgnoreCase(diaSemana)) {
          System.out.println(4);
          
-       }else if("quinta-feira".equalsIgnoreCase(diaSemana) || "quinta-feira".equalsIgnoreCase(diaSemana)) {
+       }else if("quinta-feira".equalsIgnoreCase(diaSemana)) {
           System.out.println(5);
          
-        }else if("sexta-feira".equalsIgnoreCase(diaSemana) || "sexta-feira".equalsIgnoreCase(diaSemana)) {
+        }else if("sexta-feira".equalsIgnoreCase(diaSemana)) {
            System.out.println(6);
           
-         }else if("sábado".equalsIgnoreCase(diaSemana) || "sábado".equalsIgnoreCase(diaSemana)) {
+         }else if("sábado".equalsIgnoreCase(diaSemana) || "sabado".equalsIgnoreCase(diaSemana)) {
             System.out.println(7);
            
          }else {
